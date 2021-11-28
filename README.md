@@ -1,4 +1,6 @@
 # Cognitive-ROI_DATA-POEM-INTERN
+#  MY EXPLANATION VIDEO: https://drive.google.com/file/d/1Afv3scFTOe42yZo6x7OOmi5aUvtPY8Vq/view?usp=sharing
+
 Here, we are going to see the End to End deployment of Churn prediction in telco customer
 # Now Lets us understand what is churn
 Churn prediction means knowing which customers are likely to terminate the service or  cancel the service subscription.</br>
